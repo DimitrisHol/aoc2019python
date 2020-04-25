@@ -5,7 +5,7 @@ def fuelCalculation(distance) :
 
 totalFuel = 0
 totalFuel2 = 0
-with open("input.txt") as f: 
+with open("input/01.txt") as f: 
     
     
     
